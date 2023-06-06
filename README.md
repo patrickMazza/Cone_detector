@@ -1,1 +1,1 @@
-# Supervised Learning Cone detection through RGB color space
+# Cone detection through learning RGB color space
