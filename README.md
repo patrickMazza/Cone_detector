@@ -1,1 +1,1 @@
-# Cone_detector
+# Supervised Learning Cone detection through RGB color space
